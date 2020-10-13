@@ -4,5 +4,5 @@
 #### Step 3: follow the instructions and run the notebook
 #### Note: the python scripts in the tools folder will help you edit morphed images
 
-Regarding making the PSE curve, I also found Krosh lab's OSF project: https://osf.io/jhakd/, which might be helpful
+Regarding making the PSE curve, I also found Krosh lab's OSF project: https://osf.io/jhakd/, which might be helpful.
 I am still adding more comments to the repo. Please let me know if there's anything confusing.
