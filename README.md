@@ -1,6 +1,7 @@
 # Bias in AI Project
 #### Step 1: download dl_repo folder and upload it to your google drive
-#### Step 2: open the ipynb file thatin the email or manually import the ipynb file in the notebooks folder to the google colab (reference: https://medium.com/@steve7an/how-to-test-jupyter-notebook-from-github-via-google-colab-7dc4b9b11a19)
+#### Step 2: open the ipynb file that I emailed and make a copy
+#### Step 3: follow the instructions and run the notebook
 #### Note: the python scripts in the tools folder will help you edit morphed images
 
 Regarding making the PSE curve, I also found Krosh lab's OSF project: https://osf.io/jhakd/, which might be helpful
