@@ -1,6 +1,6 @@
 # Bias in AI Project
 #### Step 1: download dl_repo folder and upload it to your google drive
-#### Step 2: open the ipynb file that I emailed and make a copy
+#### Step 2: open the ipynb file that I emailed (you can also find it in the notebooks folder in this repo) and make a copy
 #### Step 3: follow the instructions and run the notebook
 #### Note: the python scripts in the tools folder will help you edit morphed images
 
