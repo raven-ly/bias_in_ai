@@ -3,4 +3,5 @@
 #### Step 2: open the ipynb file thatin the email or manually import the ipynb file in the notebooks folder to the google colab (reference: https://medium.com/@steve7an/how-to-test-jupyter-notebook-from-github-via-google-colab-7dc4b9b11a19)
 #### Note: the python scripts in the tools folder will help you edit morphed images
 
+Regarding making the PSE curve, I also found Krosh lab's OSF project: https://osf.io/jhakd/, which might be helpful
 I am still adding more comments to the repo. Please let me know if there's anything confusing.
